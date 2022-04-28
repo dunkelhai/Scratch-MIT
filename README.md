@@ -1,4 +1,4 @@
-# ScratchMIT
+# Scratch-MIT
 Scratch Projects
 
 Jogo desenvolvido na plataforma do Scratch, do MIT, no curso de Análise e Desenvolvimento de Sistemas. Jogo inspirado no famoso "Doodle God", 
